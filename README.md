@@ -1,4 +1,6 @@
-<a href="https://itshazlan.web.id"><img src="assets/banner.gif" alt="Hamzah Alvana, software engineer in Cilacap, Indonesia. Shipping apps since 2018." width="100%" /></a>
+<a href="https://itshazlan.web.id">
+  <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=28&duration=2800&pause=900&color=F07B1E&vCenter=true&width=560&lines=Hi+there!+I'm+Hamzah.;Shipping+apps+since+2018.;Mobile+and+fullstack+developer.;RFID+meets+Ionic+and+Capacitor." alt="Hi there! I'm Hamzah. Shipping apps since 2018." />
+</a>
 
 Software engineer in Cilacap, Indonesia, currently a Mobile Application Developer at **Entwo Electronic & Engineering**. I build Android and iOS apps with Ionic and Capacitor, the web and APIs behind them, and native plugins that talk to RFID readers.
 
