@@ -1,40 +1,37 @@
-## Hi there!
+<a href="https://itshazlan.web.id">
+  <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=28&duration=2800&pause=900&color=F07B1E&vCenter=true&width=560&lines=Hi+there!+I'm+Hamzah.;Shipping+apps+since+2018.;Mobile+and+fullstack+developer.;RFID+meets+Ionic+and+Capacitor." alt="Hi there! I'm Hamzah. Shipping apps since 2018." />
+</a>
 
-I'm Hamzah, a software engineer and fullstack developer based in Cilacap, Indonesia. I've been shipping apps since 2018.
+Software engineer in Cilacap, Indonesia, currently a Mobile Application Developer at **Entwo Electronic & Engineering**. I build Android and iOS apps with Ionic and Capacitor, the web and APIs behind them, and native plugins that talk to RFID readers.
 
-- I build mobile apps for Android and iOS with **Ionic** and **Capacitor**, from the Figma design to the Play Store and App Store.
-- I also build the web side: dashboards in **Next.js** and **React**, and the APIs behind them in **Node.js**, **Express** and **Nest.js**.
-- My niche is **hardware**: native plugins that connect an app to RFID readers and other devices in the field.
-- I review code, set team standards, and teach mobile development at university level.
-
-Currently a Mobile Application Developer at **Entwo Electronic & Engineering**.
+<a href="https://itshazlan.web.id"><img src="assets/portfolio.jpg" alt="My portfolio at itshazlan.web.id" width="100%" /></a>
 
 ### Recent work
 
-| App | What it does |
-| --- | --- |
-| [MyKura](https://play.google.com/store/apps/details?id=id.co.ssprimadaya.mykura) | Enterprise super app for PLTU Cilacap: safety reports, attendance and inspections |
-| [Berbagi K3](https://play.google.com/store/apps/details?id=id.co.ssprimadaya.berbagik3) | Live K3 safety training with screen sharing, tests and instant results |
-| [Monitrax CMMS](https://play.google.com/store/apps/details?id=id.co.ssprimadaya.cctvlogsheet) | CCTV asset inspection and digital logsheets for PLTU operations |
-| [TrackFlow](https://trackflow.chimney.id/) | Project management on the web, a desktop time tracker with proof of work |
-| [Powerplant Parts](https://powerplantparts.chimney.id/) | B2B industrial parts e-catalog, part-number search and RFQ platform |
+<table>
+  <tr>
+    <td align="center" width="16%"><a href="https://play.google.com/store/apps/details?id=id.co.ssprimadaya.mykura"><img src="assets/mykura.png" width="64" alt="" /><br /><sub><b>MyKura</b></sub></a></td>
+    <td align="center" width="16%"><a href="https://play.google.com/store/apps/details?id=id.co.ssprimadaya.berbagik3"><img src="assets/berbagi-k3.png" width="64" alt="" /><br /><sub><b>Berbagi K3</b></sub></a></td>
+    <td align="center" width="16%"><a href="https://play.google.com/store/apps/details?id=id.co.ssprimadaya.cctvlogsheet"><img src="assets/monitrax-cmms.png" width="64" alt="" /><br /><sub><b>Monitrax CMMS</b></sub></a></td>
+    <td align="center" width="16%"><a href="https://play.google.com/store/apps/details?id=com.ssp.pelakuk3"><img src="assets/pelakuk3.png" width="64" alt="" /><br /><sub><b>PELAKUK3</b></sub></a></td>
+    <td align="center" width="16%"><a href="https://trackflow.chimney.id/"><img src="assets/trackflow.png" width="64" alt="" /><br /><sub><b>TrackFlow</b></sub></a></td>
+    <td align="center" width="16%"><a href="https://powerplantparts.chimney.id/"><img src="assets/powerplants.png" width="64" alt="" /><br /><sub><b>Powerplant Parts</b></sub></a></td>
+  </tr>
+</table>
 
-More in my portfolio: **[itshazlan.web.id](https://itshazlan.web.id)**
-
-### Open source
-
-- [capacitor-plugin-uhf-rfid](https://github.com/itshazlan/capacitor-plugin-uhf-rfid): R20 handheld UHF RFID for Capacitor, on npm
-- [cordova-plugin-cs108plugin](https://github.com/itshazlan/cordova-plugin-cs108plugin): Cordova plugin for the CS108 RFID reader
-- [tabsify](https://github.com/itshazlan/tabsify): guitar tab workbench that re-frets drafts for custom tunings
+Open source: [capacitor-plugin-uhf-rfid](https://github.com/itshazlan/capacitor-plugin-uhf-rfid), [cordova-plugin-cs108plugin](https://github.com/itshazlan/cordova-plugin-cs108plugin), [tabsify](https://github.com/itshazlan/tabsify)
 
 ### Tools I use
 
-- **Languages:** TypeScript, JavaScript, Java (Android plugins), Rust, PHP, Python, Go, HTML, CSS, SCSS
-- **Mobile:** Ionic, Capacitor, Cordova, Angular, Tauri (desktop), RFID and Bluetooth LE devices
-- **Web:** Next.js, React, Tailwind CSS, ECharts
-- **Backend:** Node.js, Express, Nest.js, Bun, Elysia, Laravel, Django, Socket.io, WebRTC
-- **Data:** PostgreSQL, MongoDB, Prisma, Drizzle, Firebase
-- **Tooling:** Docker, Turborepo, Git, Figma
+<img src="https://skillicons.dev/icons?i=ts,js,java,rust,php,py,go,html,css,sass,angular,react,nextjs,tailwind,tauri,nodejs,express,nestjs,bun,elysia,laravel,django,postgres,mongodb,prisma,firebase,docker,git,figma&perline=15" alt="TypeScript, JavaScript, Java, Rust, PHP, Python, Go, HTML, CSS, Sass, Angular, React, Next.js, Tailwind CSS, Tauri, Node.js, Express, Nest.js, Bun, Elysia, Laravel, Django, PostgreSQL, MongoDB, Prisma, Firebase, Docker, Git, Figma" />
+
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 
 ### GitHub stats
 
@@ -47,6 +44,5 @@ More in my portfolio: **[itshazlan.web.id](https://itshazlan.web.id)**
 
 ### Get in touch
 
-[Portfolio](https://itshazlan.web.id) · [LinkedIn](https://www.linkedin.com/in/itshazlan)
-
-In English or Bahasa Indonesia, whichever you prefer.
+[![Portfolio](https://img.shields.io/badge/itshazlan.web.id-F07B1E?style=for-the-badge&logo=googlechrome&logoColor=black)](https://itshazlan.web.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itshazlan)
