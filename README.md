@@ -42,6 +42,11 @@ Open source: [capacitor-plugin-uhf-rfid](https://github.com/itshazlan/capacitor-
 
 <img src="https://streak-stats.demolab.com?user=itshazlan&hide_border=true&background=00000000&ring=F07B1E&fire=F07B1E&currStreakLabel=F07B1E&currStreakNum=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=8B949E" alt="Hamzah's GitHub contribution streak" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itshazlan/itshazlan/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/itshazlan/itshazlan/output/snake.svg" alt="A snake eating my GitHub contribution graph" width="100%" />
+</picture>
+
 ### Get in touch
 
 [![Portfolio](https://img.shields.io/badge/itshazlan.web.id-F07B1E?style=for-the-badge&logo=googlechrome&logoColor=black)](https://itshazlan.web.id)
