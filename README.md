@@ -7,7 +7,7 @@ I'm Hamzah, a software engineer and fullstack developer based in Cilacap, Indone
 - My niche is **hardware**: native plugins that connect an app to RFID readers and other devices in the field.
 - I review code, set team standards, and teach mobile development at university level.
 
-Currently a Mobile Application Developer at **CV. Entwo Electronic & Engineering**.
+Currently a Mobile Application Developer at **Entwo Electronic & Engineering**.
 
 ### Recent work
 
