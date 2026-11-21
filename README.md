@@ -36,11 +36,11 @@ Open source: [capacitor-plugin-uhf-rfid](https://github.com/itshazlan/capacitor-
 ### GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itshazlan&show_icons=true&hide_border=true&count_private=true" alt="Hamzah's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshazlan&layout=compact&hide_border=true&langs_count=8" alt="Hamzah's most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itshazlan&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=F07B1E&text_color=8B949E&icon_color=0AA5C0" alt="Hamzah's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshazlan&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=F07B1E&text_color=8B949E&icon_color=0AA5C0" alt="Hamzah's most used languages" />
 </p>
 
-<img src="https://streak-stats.demolab.com?user=itshazlan&hide_border=true" alt="Hamzah's GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=itshazlan&hide_border=true&background=00000000&ring=F07B1E&fire=F07B1E&currStreakLabel=F07B1E&currStreakNum=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=8B949E" alt="Hamzah's GitHub contribution streak" />
 
 ### Get in touch
 
