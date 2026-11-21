@@ -35,6 +35,11 @@ Open source: [capacitor-plugin-uhf-rfid](https://github.com/itshazlan/capacitor-
 
 ### GitHub stats
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itshazlan/itshazlan/output/trophy-dark.svg" />
+  <img src="https://raw.githubusercontent.com/itshazlan/itshazlan/output/trophy.svg" alt="Hamzah's GitHub trophies" width="100%" />
+</picture>
+
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=itshazlan&show_icons=true&count_private=true&bg_color=0D1117&border_color=30363D&title_color=F07B1E&text_color=C9D1D9&icon_color=0AA5C0" />
