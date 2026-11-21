@@ -34,11 +34,20 @@ Open source: [capacitor-plugin-uhf-rfid](https://github.com/itshazlan/capacitor-
 ### GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itshazlan&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=F07B1E&text_color=24292F&icon_color=0AA5C0" alt="Hamzah's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshazlan&layout=compact&hide_border=true&langs_count=8&bg_color=FFFFFF&title_color=F07B1E&text_color=24292F&icon_color=0AA5C0" alt="Hamzah's most used languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=itshazlan&show_icons=true&count_private=true&bg_color=0D1117&border_color=30363D&title_color=F07B1E&text_color=C9D1D9&icon_color=0AA5C0" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=itshazlan&show_icons=true&count_private=true&bg_color=FFFFFF&border_color=D0D7DE&title_color=F07B1E&text_color=24292F&icon_color=0AA5C0" alt="Hamzah's GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=itshazlan&layout=compact&langs_count=8&bg_color=0D1117&border_color=30363D&title_color=F07B1E&text_color=C9D1D9&icon_color=0AA5C0" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshazlan&layout=compact&langs_count=8&bg_color=FFFFFF&border_color=D0D7DE&title_color=F07B1E&text_color=24292F&icon_color=0AA5C0" alt="Hamzah's most used languages" />
+  </picture>
 </p>
 
-<img src="https://streak-stats.demolab.com?user=itshazlan&hide_border=true&background=FFFFFF&ring=F07B1E&fire=F07B1E&currStreakLabel=F07B1E&currStreakNum=24292F&sideNums=24292F&sideLabels=24292F&dates=57606A&stroke=D0D7DE" alt="Hamzah's GitHub contribution streak" />
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=itshazlan&ring=F07B1E&fire=F07B1E&currStreakLabel=F07B1E&background=0D1117&border=30363D&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
+    <img src="https://streak-stats.demolab.com?user=itshazlan&ring=F07B1E&fire=F07B1E&currStreakLabel=F07B1E&background=FFFFFF&border=D0D7DE&currStreakNum=24292F&sideNums=24292F&sideLabels=24292F&dates=57606A&stroke=D0D7DE" alt="Hamzah's GitHub contribution streak" />
+  </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itshazlan/itshazlan/output/snake-dark.svg" />
