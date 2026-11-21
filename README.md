@@ -31,6 +31,15 @@ More in my portfolio: **[itshazlan.web.id](https://itshazlan.web.id)**
 
 Ionic, Capacitor, Angular, React, Next.js, TypeScript, Node.js, Express, Nest.js, PostgreSQL, Java (Android plugins), Figma
 
+### GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itshazlan&show_icons=true&hide_border=true&count_private=true" alt="Hamzah's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshazlan&layout=compact&hide_border=true&langs_count=8" alt="Hamzah's most used languages" />
+</p>
+
+<img src="https://streak-stats.demolab.com?user=itshazlan&hide_border=true" alt="Hamzah's GitHub contribution streak" />
+
 ### Get in touch
 
 [Portfolio](https://itshazlan.web.id) · [LinkedIn](https://www.linkedin.com/in/itshazlan)
