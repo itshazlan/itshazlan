@@ -1,10 +1,6 @@
-<a href="https://itshazlan.web.id">
-  <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=28&duration=2800&pause=900&color=F07B1E&vCenter=true&width=560&lines=Hi+there!+I'm+Hamzah.;Shipping+apps+since+2018.;Mobile+and+fullstack+developer.;RFID+meets+Ionic+and+Capacitor." alt="Hi there! I'm Hamzah. Shipping apps since 2018." />
-</a>
+<a href="https://itshazlan.web.id"><img src="assets/banner.gif" alt="Hamzah Alvana, software engineer in Cilacap, Indonesia. Shipping apps since 2018." width="100%" /></a>
 
 Software engineer in Cilacap, Indonesia, currently a Mobile Application Developer at **Entwo Electronic & Engineering**. I build Android and iOS apps with Ionic and Capacitor, the web and APIs behind them, and native plugins that talk to RFID readers.
-
-<a href="https://itshazlan.web.id"><img src="assets/portfolio.jpg" alt="My portfolio at itshazlan.web.id" width="100%" /></a>
 
 ### Recent work
 
@@ -36,11 +32,11 @@ Open source: [capacitor-plugin-uhf-rfid](https://github.com/itshazlan/capacitor-
 ### GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itshazlan&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=F07B1E&text_color=8B949E&icon_color=0AA5C0" alt="Hamzah's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshazlan&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=F07B1E&text_color=8B949E&icon_color=0AA5C0" alt="Hamzah's most used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itshazlan&show_icons=true&hide_border=true&count_private=true&bg_color=FFFFFF&title_color=F07B1E&text_color=24292F&icon_color=0AA5C0" alt="Hamzah's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itshazlan&layout=compact&hide_border=true&langs_count=8&bg_color=FFFFFF&title_color=F07B1E&text_color=24292F&icon_color=0AA5C0" alt="Hamzah's most used languages" />
 </p>
 
-<img src="https://streak-stats.demolab.com?user=itshazlan&hide_border=true&background=00000000&ring=F07B1E&fire=F07B1E&currStreakLabel=F07B1E&currStreakNum=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&stroke=8B949E" alt="Hamzah's GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=itshazlan&hide_border=true&background=FFFFFF&ring=F07B1E&fire=F07B1E&currStreakLabel=F07B1E&currStreakNum=24292F&sideNums=24292F&sideLabels=24292F&dates=57606A&stroke=D0D7DE" alt="Hamzah's GitHub contribution streak" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itshazlan/itshazlan/output/snake-dark.svg" />
