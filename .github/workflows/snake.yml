@@ -26,6 +26,7 @@ jobs:
       # if the mirror is down, keep yesterday's copy.
       - name: Trophies
         run: |
+          sudo chmod -R a+w dist # snk writes dist as root
           base="https://github-trophies.vercel.app/?username=${{ github.repository_owner }}&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"
           raw="https://raw.githubusercontent.com/${{ github.repository }}/output"
           for t in flat:trophy onedark:trophy-dark; do
