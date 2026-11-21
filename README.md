@@ -29,7 +29,12 @@ More in my portfolio: **[itshazlan.web.id](https://itshazlan.web.id)**
 
 ### Tools I use
 
-Ionic, Capacitor, Angular, React, Next.js, TypeScript, Node.js, Express, Nest.js, PostgreSQL, Java (Android plugins), Figma
+- **Languages:** TypeScript, JavaScript, Java (Android plugins), Rust, PHP, Python, Go, HTML, CSS, SCSS
+- **Mobile:** Ionic, Capacitor, Cordova, Angular, Tauri (desktop), RFID and Bluetooth LE devices
+- **Web:** Next.js, React, Tailwind CSS, ECharts
+- **Backend:** Node.js, Express, Nest.js, Bun, Elysia, Laravel, Django, Socket.io, WebRTC
+- **Data:** PostgreSQL, MongoDB, Prisma, Drizzle, Firebase
+- **Tooling:** Docker, Turborepo, Git, Figma
 
 ### GitHub stats
 
