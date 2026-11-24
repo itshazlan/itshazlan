@@ -22,18 +22,6 @@ jobs:
             dist/snake.svg?color_snake=#F07B1E&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
             dist/snake-dark.svg?palette=github-dark&color_snake=#F07B1E
 
-      # Trophies: the official instance is gone, so copy the mirror's SVGs here daily;
-      # if the mirror is down, keep yesterday's copy.
-      - name: Trophies
-        run: |
-          sudo chmod -R a+w dist # snk writes dist as root
-          base="https://github-trophies.vercel.app/?username=${{ github.repository_owner }}&no-frame=true&no-bg=true&row=1&column=7&margin-w=10"
-          raw="https://raw.githubusercontent.com/${{ github.repository }}/output"
-          for t in flat:trophy onedark:trophy-dark; do
-            curl -fsSL -m 60 "$base&theme=${t%%:*}" -o "dist/${t##*:}.svg" \
-              || curl -fsSL "$raw/${t##*:}.svg" -o "dist/${t##*:}.svg" || true
-          done
-
       - uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
